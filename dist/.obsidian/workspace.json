@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "b13216899c6c549b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8bccee02be136bc8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0eefe83c2b6a589e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9581b3d22ded16e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab4e0a26146be22f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f837a550acccf46",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "89b4117b024a582a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "00f362cfb18d5386",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ecd46bf939100119",
+    "type": "split",
+    "children": [
+      {
+        "id": "d688a3e6e71bd378",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "daaedb1e23b1781a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9d0d1065339292b5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "13300fe841deaf67",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6920f306945922a1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0eefe83c2b6a589e",
+  "lastOpenFiles": [
+    "LEI 2º Ano/1º Semestre/FCD/Teoria da Informação - Parte 1.pdf",
+    "LEI 2º Ano/1º Semestre/FCD/stylus_write_fcd.pdf",
+    "LEI 2º Ano/1º Semestre/Arquitetura de Computadores/Stylus_write_ArqC.pdf",
+    "LEI 2º Ano/1º Semestre/Algoritmos e Complexidade/Graph notes.pdf",
+    "LEI 3º Ano/1º Semestre/LI4/Online Auctions - Theory and Examples.pdf",
+    "LEI 2º Ano/1º Semestre/Algoritmos e Complexidade/Why3 - Ficha 1.pdf",
+    "LEI 2º Ano/1º Semestre/Algoritmos e Complexidade/Stylus_write_algc.pdf",
+    "LEI 3º Ano/1º Semestre/Comunicações por Computador/TP2/relatorio_tp2.pdf",
+    "Other/Drawing/Other/Drawing the effect of detail, not the exact detail.md",
+    "LEI 3º Ano/2º Semestre/Segurança de Sistemas Informáticos/Guioes/guiao7.md",
+    "LEI 3º Ano/2º Semestre/Segurança de Sistemas Informáticos/Guioes/guiao8.md",
+    "Other/Blender/City - OSM.pdf",
+    "Other/Blender/Bicycle - Ghibli.pdf",
+    "Other/Books/Highlights & Notes/On Writing.md",
+    "Other/Drawing/Urban Sketching/Drawing from the Outside In.md",
+    "Other/Drawing/Urban Sketching/Composition _ the Gradient of Interest.md",
+    "Other/Drawing/Other/Links.md",
+    "Other/Drawing/Design And Invention/Drapery.md",
+    "Other/Drawing/Design And Invention/The Hand/The whole process.md",
+    "Other/Drawing/Design And Invention/The Hand/The Hand.md",
+    "Other/Drawing/Design And Invention/The Hand/Perspective of the Hand.md",
+    "Other/Drawing/Design And Invention/The Hand/Hand structure and proportion.md",
+    "Other/Drawing/Design And Invention/The Hand/Hand Anatomy.md",
+    "Other/Drawing/Design And Invention/The Hand/Finger Bones and Knuckels.md",
+    "Other/Drawing/Design And Invention/The Arm/The Shoulder.md",
+    "Other/Drawing/Design And Invention/The Arm/The Forearm.md",
+    "Other/Drawing/Design And Invention/The Arm/The Arm.md",
+    "Other/Drawing/Design And Invention/The Arm/Anatomy of the arm.md",
+    "Other/Drawing/Design And Invention/Landmarks/Weight Distribution.md",
+    "Other/Drawing/Design And Invention/Landmarks/Volume.md",
+    "Other/Drawing/Design And Invention/Landmarks/Rib Cage, Pelvis and the Back.md",
+    "Other/Drawing/Design And Invention/Landmarks/Connections.md",
+    "Other/Drawing/Design And Invention/Landmarks/Arms and Legs.md",
+    "Other/Drawing/Design And Invention/Head Drawing/Step 9 - Denture Sphere.md",
+    "Other/Drawing/Design And Invention/Head Drawing/Step 8 - The Keystone.md",
+    "Other/Blender/Donut.pdf"
+  ]
+}

@@ -1,0 +1,4 @@
+O processo de seleção de uma amostra a partir de uma população designa-se por **amostragem**.
+Para se poderem fazer inferências a partir de uma amostra e medir o rigor de tais inferências, esta deve ser selecionada de acordo com um processo de **amostragem probabilística**. Para este tipo de amostragem, cada um dos elementos da população tem hipóteses de ser incluído na amostra, sendo possível medir com rigor qual a possibilidade de tal suceder, através do cálculo da respetiva probabilidade.
+
+De todos os processos de amostragem probabilistica, o mais importante é o de **amostragem aleatória**. Este processo garante que todos os elementos da população têm as mesmas hipóteses de ser integrados na amostra. Através dele, consegue evitar-se qualquer **enviesamento de seleção**, isto é, afasta-se qualquer tendência sistemática para sub-representar ou sobrerrepresentar na amostra alguns elementos da população.
