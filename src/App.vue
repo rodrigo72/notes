@@ -579,4 +579,30 @@
         }
     }
 
+    @media screen and (width <= 500px) {
+        #lpanel {
+            display: grid;
+            display: flex;
+            flex-direction: column;
+        }
+        #rpanel {
+            display: flex;            
+            margin: 0px;
+            width: 100%;
+        }
+        #home-page {
+            padding: 30px;
+            background-color: #262626;
+            display: grid;
+            grid-template-areas: 
+                "lpanel" 
+                "cpanel" 
+                "rpanel";
+            grid-template-columns: 1fr;
+            grid-template-rows: 1fr 400px 1fr;
+            grid-row-gap: 5px;
+            overflow-y: scroll;
+        }
+    }
+
 </style>
