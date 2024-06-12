@@ -524,9 +524,12 @@
         display: flex;
         justify-content: center;
         align-items: center;
+        position: relative;
     }
 
     .cp-image {
+        position: absolute;
+        top: 0;
         max-width: 100%;
     }
 
