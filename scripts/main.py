@@ -155,4 +155,3 @@ if __name__ == '__main__':
 
     with open('./output.txt', 'w', encoding='utf-8') as file:
         file.write(output_str)
-

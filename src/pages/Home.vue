@@ -264,12 +264,6 @@
                 "type": "pdf",
                 "label": "Cloud Computing",
                 "path": "LEI 3º Ano/1º Semestre/Sistemas Distribuídos/report.pdf"
-            }, 
-            {
-                "type": "markdown",
-                "label": "Drawing the effect of detail, not the exact detail.md",
-                "path": "Other/Drawing/Other/Drawing the effect of detail, not the exact detail.md",
-                "content": "<h2>Drawing the effect of detail, not the exact detail</h2> <ul> <li>make it easy for people looking at a complex scene to know what&rsquo;s happening, what&rsquo;s going on -&gt; make sure that a few of the objects are easy to see and easy to recognize (reasonably sized, without much room for confusion in them or around them -&gt; hightlight the shape)</li> <li>silhouettes are important</li> <li>make it easy to attach meaning to</li> <li>dark shadows as a path for the eyes to follow</li> <li>further away -&gt; lines are  thiner, softer and more gestural; darker on what&rsquo;s closer</li> <li>do not feel every gap equally, make it random</li> <li>what are the thing&rsquo;s that stand out? how and why?</li> <li>negative space (drawing the space between things)</li> </ul> <p><img alt=\"\" src=\"https://i.imgur.com/UsBLNMA.png\" /></p>"
             },
             {
                 "type": "pdf",
