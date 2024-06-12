@@ -199,7 +199,7 @@
             if (t === "markdown") {
                 return tabs.value[currentTab.value].content;
             } else if (t === "image" || t === "pdf") {
-                return "../../public/" + tabs.value[currentTab.value].path;
+                return tabs.value[currentTab.value].path;
             }
         }
         return '';
