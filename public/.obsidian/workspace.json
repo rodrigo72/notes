@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8bccee02be136bc8",
+        "id": "c6bc3511d1f87e22",
         "type": "tabs",
         "children": [
           {
-            "id": "0eefe83c2b6a589e",
+            "id": "37e6ab6bb5ae1326",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,8 +138,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0eefe83c2b6a589e",
+  "active": "37e6ab6bb5ae1326",
   "lastOpenFiles": [
+    "LEI 1º Ano/1º Semestre/Cálculo para Engenharia/Teoria/Apontamentos/3Blue1Brown_-_Anotações.pdf",
+    "LEI 1º Ano/1º Semestre/Cálculo para Engenharia/Untitled",
+    "LEI 1º Ano/1º Semestre/Cálculo para Engenharia",
     "LEI 2º Ano/1º Semestre/FCD/Teoria da Informação - Parte 1.pdf",
     "LEI 2º Ano/1º Semestre/FCD/stylus_write_fcd.pdf",
     "LEI 2º Ano/1º Semestre/Arquitetura de Computadores/Stylus_write_ArqC.pdf",
@@ -151,8 +154,6 @@
     "Other/Drawing/Other/Drawing the effect of detail, not the exact detail.md",
     "LEI 3º Ano/2º Semestre/Segurança de Sistemas Informáticos/Guioes/guiao7.md",
     "LEI 3º Ano/2º Semestre/Segurança de Sistemas Informáticos/Guioes/guiao8.md",
-    "Other/Blender/City - OSM.pdf",
-    "Other/Blender/Bicycle - Ghibli.pdf",
     "Other/Books/Highlights & Notes/On Writing.md",
     "Other/Drawing/Urban Sketching/Drawing from the Outside In.md",
     "Other/Drawing/Urban Sketching/Composition _ the Gradient of Interest.md",
@@ -174,7 +175,6 @@
     "Other/Drawing/Design And Invention/Landmarks/Connections.md",
     "Other/Drawing/Design And Invention/Landmarks/Arms and Legs.md",
     "Other/Drawing/Design And Invention/Head Drawing/Step 9 - Denture Sphere.md",
-    "Other/Drawing/Design And Invention/Head Drawing/Step 8 - The Keystone.md",
-    "Other/Blender/Donut.pdf"
+    "Other/Drawing/Design And Invention/Head Drawing/Step 8 - The Keystone.md"
   ]
 }

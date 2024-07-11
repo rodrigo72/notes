@@ -201,6 +201,310 @@ export const NodeService = {
                 icon: 'pi pi-folder',
                 items: [
                   {
+                    label: 'Cálculo para Engenharia',
+                    icon: 'pi pi-folder',
+                    items: [
+                      {
+                        label: 'Exercícios',
+                        icon: 'pi pi-folder',
+                        items: [
+                          {
+                            label: 'Fichas',
+                            icon: 'pi pi-folder',
+                            items: [
+                              {
+                                label: 'LEInf_23-24_Folha1.pdf',
+                                icon: 'pi pi-file-pdf',
+                                command: () => {tabs.value.push({"type": "pdf","label": "LEInf_23-24_Folha1.pdf","path": "LEI 1º Ano/1º Semestre/Cálculo para Engenharia/Exercícios/Fichas/LEInf_23-24_Folha1.pdf"});currentTab.value = tabs.value.length - 1;},
+                              },
+                              {
+                                label: 'LEInf_23-24_Folha2.pdf',
+                                icon: 'pi pi-file-pdf',
+                                command: () => {tabs.value.push({"type": "pdf","label": "LEInf_23-24_Folha2.pdf","path": "LEI 1º Ano/1º Semestre/Cálculo para Engenharia/Exercícios/Fichas/LEInf_23-24_Folha2.pdf"});currentTab.value = tabs.value.length - 1;},
+                              },
+                              {
+                                label: 'LEInf_23-24_Folha3.pdf',
+                                icon: 'pi pi-file-pdf',
+                                command: () => {tabs.value.push({"type": "pdf","label": "LEInf_23-24_Folha3.pdf","path": "LEI 1º Ano/1º Semestre/Cálculo para Engenharia/Exercícios/Fichas/LEInf_23-24_Folha3.pdf"});currentTab.value = tabs.value.length - 1;},
+                              },
+                              {
+                                label: 'LEInf_23-24_Folha4.pdf',
+                                icon: 'pi pi-file-pdf',
+                                command: () => {tabs.value.push({"type": "pdf","label": "LEInf_23-24_Folha4.pdf","path": "LEI 1º Ano/1º Semestre/Cálculo para Engenharia/Exercícios/Fichas/LEInf_23-24_Folha4.pdf"});currentTab.value = tabs.value.length - 1;},
+                              },
+                              {
+                                label: 'LEInf_23-24_Folha5.pdf',
+                                icon: 'pi pi-file-pdf',
+                                command: () => {tabs.value.push({"type": "pdf","label": "LEInf_23-24_Folha5.pdf","path": "LEI 1º Ano/1º Semestre/Cálculo para Engenharia/Exercícios/Fichas/LEInf_23-24_Folha5.pdf"});currentTab.value = tabs.value.length - 1;},
+                              },
+                              {
+                                label: 'LEInf_23-24_Folha6.pdf',
+                                icon: 'pi pi-file-pdf',
+                                command: () => {tabs.value.push({"type": "pdf","label": "LEInf_23-24_Folha6.pdf","path": "LEI 1º Ano/1º Semestre/Cálculo para Engenharia/Exercícios/Fichas/LEInf_23-24_Folha6.pdf"});currentTab.value = tabs.value.length - 1;},
+                              },
+                            ],
+                          },
+                          {
+                            label: 'Soluções',
+                            icon: 'pi pi-folder',
+                            items: [
+                              {
+                                label: 'Ficha_1.pdf',
+                                icon: 'pi pi-file-pdf',
+                                command: () => {tabs.value.push({"type": "pdf","label": "Ficha_1.pdf","path": "LEI 1º Ano/1º Semestre/Cálculo para Engenharia/Exercícios/Soluções/Ficha_1.pdf"});currentTab.value = tabs.value.length - 1;},
+                              },
+                              {
+                                label: 'Ficha_2.pdf',
+                                icon: 'pi pi-file-pdf',
+                                command: () => {tabs.value.push({"type": "pdf","label": "Ficha_2.pdf","path": "LEI 1º Ano/1º Semestre/Cálculo para Engenharia/Exercícios/Soluções/Ficha_2.pdf"});currentTab.value = tabs.value.length - 1;},
+                              },
+                              {
+                                label: 'Ficha_3.pdf',
+                                icon: 'pi pi-file-pdf',
+                                command: () => {tabs.value.push({"type": "pdf","label": "Ficha_3.pdf","path": "LEI 1º Ano/1º Semestre/Cálculo para Engenharia/Exercícios/Soluções/Ficha_3.pdf"});currentTab.value = tabs.value.length - 1;},
+                              },
+                              {
+                                label: 'Ficha_4.pdf',
+                                icon: 'pi pi-file-pdf',
+                                command: () => {tabs.value.push({"type": "pdf","label": "Ficha_4.pdf","path": "LEI 1º Ano/1º Semestre/Cálculo para Engenharia/Exercícios/Soluções/Ficha_4.pdf"});currentTab.value = tabs.value.length - 1;},
+                              },
+                              {
+                                label: 'Ficha_5_(ex_11_a_13).pdf',
+                                icon: 'pi pi-file-pdf',
+                                command: () => {tabs.value.push({"type": "pdf","label": "Ficha_5_(ex_11_a_13).pdf","path": "LEI 1º Ano/1º Semestre/Cálculo para Engenharia/Exercícios/Soluções/Ficha_5_(ex_11_a_13).pdf"});currentTab.value = tabs.value.length - 1;},
+                              },
+                              {
+                                label: 'Ficha_5_(ex_14_a_47).pdf',
+                                icon: 'pi pi-file-pdf',
+                                command: () => {tabs.value.push({"type": "pdf","label": "Ficha_5_(ex_14_a_47).pdf","path": "LEI 1º Ano/1º Semestre/Cálculo para Engenharia/Exercícios/Soluções/Ficha_5_(ex_14_a_47).pdf"});currentTab.value = tabs.value.length - 1;},
+                              },
+                              {
+                                label: 'Ficha_5_(ex_1_a_10).pdf',
+                                icon: 'pi pi-file-pdf',
+                                command: () => {tabs.value.push({"type": "pdf","label": "Ficha_5_(ex_1_a_10).pdf","path": "LEI 1º Ano/1º Semestre/Cálculo para Engenharia/Exercícios/Soluções/Ficha_5_(ex_1_a_10).pdf"});currentTab.value = tabs.value.length - 1;},
+                              },
+                              {
+                                label: 'Ficha_6.pdf',
+                                icon: 'pi pi-file-pdf',
+                                command: () => {tabs.value.push({"type": "pdf","label": "Ficha_6.pdf","path": "LEI 1º Ano/1º Semestre/Cálculo para Engenharia/Exercícios/Soluções/Ficha_6.pdf"});currentTab.value = tabs.value.length - 1;},
+                              },
+                            ],
+                          },
+                        ],
+                      },
+                      {
+                        label: 'Formulários',
+                        icon: 'pi pi-folder',
+                        items: [
+                          {
+                            label: 'Formulario_1.pdf',
+                            icon: 'pi pi-file-pdf',
+                            command: () => {tabs.value.push({"type": "pdf","label": "Formulario_1.pdf","path": "LEI 1º Ano/1º Semestre/Cálculo para Engenharia/Formulários/Formulario_1.pdf"});currentTab.value = tabs.value.length - 1;},
+                          },
+                          {
+                            label: 'Formulario_2.pdf',
+                            icon: 'pi pi-file-pdf',
+                            command: () => {tabs.value.push({"type": "pdf","label": "Formulario_2.pdf","path": "LEI 1º Ano/1º Semestre/Cálculo para Engenharia/Formulários/Formulario_2.pdf"});currentTab.value = tabs.value.length - 1;},
+                          },
+                          {
+                            label: 'Formulario_3.pdf',
+                            icon: 'pi pi-file-pdf',
+                            command: () => {tabs.value.push({"type": "pdf","label": "Formulario_3.pdf","path": "LEI 1º Ano/1º Semestre/Cálculo para Engenharia/Formulários/Formulario_3.pdf"});currentTab.value = tabs.value.length - 1;},
+                          },
+                          {
+                            label: 'Formulario_4.pdf',
+                            icon: 'pi pi-file-pdf',
+                            command: () => {tabs.value.push({"type": "pdf","label": "Formulario_4.pdf","path": "LEI 1º Ano/1º Semestre/Cálculo para Engenharia/Formulários/Formulario_4.pdf"});currentTab.value = tabs.value.length - 1;},
+                          },
+                          {
+                            label: 'Formulario_Avaliacoes.pdf',
+                            icon: 'pi pi-file-pdf',
+                            command: () => {tabs.value.push({"type": "pdf","label": "Formulario_Avaliacoes.pdf","path": "LEI 1º Ano/1º Semestre/Cálculo para Engenharia/Formulários/Formulario_Avaliacoes.pdf"});currentTab.value = tabs.value.length - 1;},
+                          },
+                        ],
+                      },
+                      {
+                        label: 'Teoria',
+                        icon: 'pi pi-folder',
+                        items: [
+                          {
+                            label: 'Apontamentos',
+                            icon: 'pi pi-folder',
+                            items: [
+                              {
+                                label: '3Blue1Brown_-_Anotações.pdf',
+                                icon: 'pi pi-file-pdf',
+                                command: () => {tabs.value.push({"type": "pdf","label": "3Blue1Brown_-_Anotações.pdf","path": "LEI 1º Ano/1º Semestre/Cálculo para Engenharia/Teoria/Apontamentos/3Blue1Brown_-_Anotações.pdf"});currentTab.value = tabs.value.length - 1;},
+                              },
+                              {
+                                label: 'Teóricas_11_a_13.pdf',
+                                icon: 'pi pi-file-pdf',
+                                command: () => {tabs.value.push({"type": "pdf","label": "Teóricas_11_a_13.pdf","path": "LEI 1º Ano/1º Semestre/Cálculo para Engenharia/Teoria/Apontamentos/Teóricas_11_a_13.pdf"});currentTab.value = tabs.value.length - 1;},
+                              },
+                              {
+                                label: 'Teórica_1.pdf',
+                                icon: 'pi pi-file-pdf',
+                                command: () => {tabs.value.push({"type": "pdf","label": "Teórica_1.pdf","path": "LEI 1º Ano/1º Semestre/Cálculo para Engenharia/Teoria/Apontamentos/Teórica_1.pdf"});currentTab.value = tabs.value.length - 1;},
+                              },
+                              {
+                                label: 'Teórica_10.pdf',
+                                icon: 'pi pi-file-pdf',
+                                command: () => {tabs.value.push({"type": "pdf","label": "Teórica_10.pdf","path": "LEI 1º Ano/1º Semestre/Cálculo para Engenharia/Teoria/Apontamentos/Teórica_10.pdf"});currentTab.value = tabs.value.length - 1;},
+                              },
+                              {
+                                label: 'Teórica_2.pdf',
+                                icon: 'pi pi-file-pdf',
+                                command: () => {tabs.value.push({"type": "pdf","label": "Teórica_2.pdf","path": "LEI 1º Ano/1º Semestre/Cálculo para Engenharia/Teoria/Apontamentos/Teórica_2.pdf"});currentTab.value = tabs.value.length - 1;},
+                              },
+                              {
+                                label: 'Teórica_3.pdf',
+                                icon: 'pi pi-file-pdf',
+                                command: () => {tabs.value.push({"type": "pdf","label": "Teórica_3.pdf","path": "LEI 1º Ano/1º Semestre/Cálculo para Engenharia/Teoria/Apontamentos/Teórica_3.pdf"});currentTab.value = tabs.value.length - 1;},
+                              },
+                              {
+                                label: 'Teórica_4.pdf',
+                                icon: 'pi pi-file-pdf',
+                                command: () => {tabs.value.push({"type": "pdf","label": "Teórica_4.pdf","path": "LEI 1º Ano/1º Semestre/Cálculo para Engenharia/Teoria/Apontamentos/Teórica_4.pdf"});currentTab.value = tabs.value.length - 1;},
+                              },
+                              {
+                                label: 'Teórica_5.pdf',
+                                icon: 'pi pi-file-pdf',
+                                command: () => {tabs.value.push({"type": "pdf","label": "Teórica_5.pdf","path": "LEI 1º Ano/1º Semestre/Cálculo para Engenharia/Teoria/Apontamentos/Teórica_5.pdf"});currentTab.value = tabs.value.length - 1;},
+                              },
+                              {
+                                label: 'Teórica_6.pdf',
+                                icon: 'pi pi-file-pdf',
+                                command: () => {tabs.value.push({"type": "pdf","label": "Teórica_6.pdf","path": "LEI 1º Ano/1º Semestre/Cálculo para Engenharia/Teoria/Apontamentos/Teórica_6.pdf"});currentTab.value = tabs.value.length - 1;},
+                              },
+                              {
+                                label: 'Teórica_7_a_8.pdf',
+                                icon: 'pi pi-file-pdf',
+                                command: () => {tabs.value.push({"type": "pdf","label": "Teórica_7_a_8.pdf","path": "LEI 1º Ano/1º Semestre/Cálculo para Engenharia/Teoria/Apontamentos/Teórica_7_a_8.pdf"});currentTab.value = tabs.value.length - 1;},
+                              },
+                            ],
+                          },
+                          {
+                            label: 'Slides',
+                            icon: 'pi pi-folder',
+                            items: [
+                              {
+                                label: '23_24_Calculo-T_Slides10out.pdf',
+                                icon: 'pi pi-file-pdf',
+                                command: () => {tabs.value.push({"type": "pdf","label": "23_24_Calculo-T_Slides10out.pdf","path": "LEI 1º Ano/1º Semestre/Cálculo para Engenharia/Teoria/Slides/23_24_Calculo-T_Slides10out.pdf"});currentTab.value = tabs.value.length - 1;},
+                              },
+                              {
+                                label: '23_24_Calculo-T_Slides12set.pdf',
+                                icon: 'pi pi-file-pdf',
+                                command: () => {tabs.value.push({"type": "pdf","label": "23_24_Calculo-T_Slides12set.pdf","path": "LEI 1º Ano/1º Semestre/Cálculo para Engenharia/Teoria/Slides/23_24_Calculo-T_Slides12set.pdf"});currentTab.value = tabs.value.length - 1;},
+                              },
+                              {
+                                label: '23_24_Calculo-T_Slides14nov.pdf',
+                                icon: 'pi pi-file-pdf',
+                                command: () => {tabs.value.push({"type": "pdf","label": "23_24_Calculo-T_Slides14nov.pdf","path": "LEI 1º Ano/1º Semestre/Cálculo para Engenharia/Teoria/Slides/23_24_Calculo-T_Slides14nov.pdf"});currentTab.value = tabs.value.length - 1;},
+                              },
+                              {
+                                label: '23_24_Calculo-T_Slides17out.pdf',
+                                icon: 'pi pi-file-pdf',
+                                command: () => {tabs.value.push({"type": "pdf","label": "23_24_Calculo-T_Slides17out.pdf","path": "LEI 1º Ano/1º Semestre/Cálculo para Engenharia/Teoria/Slides/23_24_Calculo-T_Slides17out.pdf"});currentTab.value = tabs.value.length - 1;},
+                              },
+                              {
+                                label: '23_24_Calculo-T_Slides19set.pdf',
+                                icon: 'pi pi-file-pdf',
+                                command: () => {tabs.value.push({"type": "pdf","label": "23_24_Calculo-T_Slides19set.pdf","path": "LEI 1º Ano/1º Semestre/Cálculo para Engenharia/Teoria/Slides/23_24_Calculo-T_Slides19set.pdf"});currentTab.value = tabs.value.length - 1;},
+                              },
+                              {
+                                label: '23_24_Calculo-T_Slides21nov.pdf',
+                                icon: 'pi pi-file-pdf',
+                                command: () => {tabs.value.push({"type": "pdf","label": "23_24_Calculo-T_Slides21nov.pdf","path": "LEI 1º Ano/1º Semestre/Cálculo para Engenharia/Teoria/Slides/23_24_Calculo-T_Slides21nov.pdf"});currentTab.value = tabs.value.length - 1;},
+                              },
+                              {
+                                label: '23_24_Calculo-T_Slides24out.pdf',
+                                icon: 'pi pi-file-pdf',
+                                command: () => {tabs.value.push({"type": "pdf","label": "23_24_Calculo-T_Slides24out.pdf","path": "LEI 1º Ano/1º Semestre/Cálculo para Engenharia/Teoria/Slides/23_24_Calculo-T_Slides24out.pdf"});currentTab.value = tabs.value.length - 1;},
+                              },
+                              {
+                                label: '23_24_Calculo-T_Slides26set.pdf',
+                                icon: 'pi pi-file-pdf',
+                                command: () => {tabs.value.push({"type": "pdf","label": "23_24_Calculo-T_Slides26set.pdf","path": "LEI 1º Ano/1º Semestre/Cálculo para Engenharia/Teoria/Slides/23_24_Calculo-T_Slides26set.pdf"});currentTab.value = tabs.value.length - 1;},
+                              },
+                              {
+                                label: '23_24_Calculo-T_Slides28nov.pdf',
+                                icon: 'pi pi-file-pdf',
+                                command: () => {tabs.value.push({"type": "pdf","label": "23_24_Calculo-T_Slides28nov.pdf","path": "LEI 1º Ano/1º Semestre/Cálculo para Engenharia/Teoria/Slides/23_24_Calculo-T_Slides28nov.pdf"});currentTab.value = tabs.value.length - 1;},
+                              },
+                              {
+                                label: '23_24_Calculo-T_Slides31out.pdf',
+                                icon: 'pi pi-file-pdf',
+                                command: () => {tabs.value.push({"type": "pdf","label": "23_24_Calculo-T_Slides31out.pdf","path": "LEI 1º Ano/1º Semestre/Cálculo para Engenharia/Teoria/Slides/23_24_Calculo-T_Slides31out.pdf"});currentTab.value = tabs.value.length - 1;},
+                              },
+                              {
+                                label: '23_24_Calculo-T_Slides3out.pdf',
+                                icon: 'pi pi-file-pdf',
+                                command: () => {tabs.value.push({"type": "pdf","label": "23_24_Calculo-T_Slides3out.pdf","path": "LEI 1º Ano/1º Semestre/Cálculo para Engenharia/Teoria/Slides/23_24_Calculo-T_Slides3out.pdf"});currentTab.value = tabs.value.length - 1;},
+                              },
+                              {
+                                label: '23_24_Calculo-T_Slides5dez.pdf',
+                                icon: 'pi pi-file-pdf',
+                                command: () => {tabs.value.push({"type": "pdf","label": "23_24_Calculo-T_Slides5dez.pdf","path": "LEI 1º Ano/1º Semestre/Cálculo para Engenharia/Teoria/Slides/23_24_Calculo-T_Slides5dez.pdf"});currentTab.value = tabs.value.length - 1;},
+                              },
+                              {
+                                label: '23_24_Calculo-T_Slides7nov.pdf',
+                                icon: 'pi pi-file-pdf',
+                                command: () => {tabs.value.push({"type": "pdf","label": "23_24_Calculo-T_Slides7nov.pdf","path": "LEI 1º Ano/1º Semestre/Cálculo para Engenharia/Teoria/Slides/23_24_Calculo-T_Slides7nov.pdf"});currentTab.value = tabs.value.length - 1;},
+                              },
+                            ],
+                          },
+                        ],
+                      },
+                      {
+                        label: 'Testes',
+                        icon: 'pi pi-folder',
+                        items: [
+                          {
+                            label: 'LEInf_202223_ExRecurso.pdf',
+                            icon: 'pi pi-file-pdf',
+                            command: () => {tabs.value.push({"type": "pdf","label": "LEInf_202223_ExRecurso.pdf","path": "LEI 1º Ano/1º Semestre/Cálculo para Engenharia/Testes/LEInf_202223_ExRecurso.pdf"});currentTab.value = tabs.value.length - 1;},
+                          },
+                          {
+                            label: 'LEInf_202223_Teste1-PropostaResolução.pdf',
+                            icon: 'pi pi-file-pdf',
+                            command: () => {tabs.value.push({"type": "pdf","label": "LEInf_202223_Teste1-PropostaResolução.pdf","path": "LEI 1º Ano/1º Semestre/Cálculo para Engenharia/Testes/LEInf_202223_Teste1-PropostaResolução.pdf"});currentTab.value = tabs.value.length - 1;},
+                          },
+                          {
+                            label: 'LEInf_202223_Teste2_A-1.pdf',
+                            icon: 'pi pi-file-pdf',
+                            command: () => {tabs.value.push({"type": "pdf","label": "LEInf_202223_Teste2_A-1.pdf","path": "LEI 1º Ano/1º Semestre/Cálculo para Engenharia/Testes/LEInf_202223_Teste2_A-1.pdf"});currentTab.value = tabs.value.length - 1;},
+                          },
+                          {
+                            label: 'LEInf_2023_24_Teste2_PropResolução.pdf',
+                            icon: 'pi pi-file-pdf',
+                            command: () => {tabs.value.push({"type": "pdf","label": "LEInf_2023_24_Teste2_PropResolução.pdf","path": "LEI 1º Ano/1º Semestre/Cálculo para Engenharia/Testes/LEInf_2023_24_Teste2_PropResolução.pdf"});currentTab.value = tabs.value.length - 1;},
+                          },
+                          {
+                            label: 'LEInf_2023_24_Teste4nov(PropostaResolução).pdf',
+                            icon: 'pi pi-file-pdf',
+                            command: () => {tabs.value.push({"type": "pdf","label": "LEInf_2023_24_Teste4nov(PropostaResolução).pdf","path": "LEI 1º Ano/1º Semestre/Cálculo para Engenharia/Testes/LEInf_2023_24_Teste4nov(PropostaResolução).pdf"});currentTab.value = tabs.value.length - 1;},
+                          },
+                          {
+                            label: 'LEInf_Teste1_correcao.pdf',
+                            icon: 'pi pi-file-pdf',
+                            command: () => {tabs.value.push({"type": "pdf","label": "LEInf_Teste1_correcao.pdf","path": "LEI 1º Ano/1º Semestre/Cálculo para Engenharia/Testes/LEInf_Teste1_correcao.pdf"});currentTab.value = tabs.value.length - 1;},
+                          },
+                          {
+                            label: '[LEInf20021-22]ExameRecurso_PropostaResol.pdf',
+                            icon: 'pi pi-file-pdf',
+                            command: () => {tabs.value.push({"type": "pdf","label": "[LEInf20021-22]ExameRecurso_PropostaResol.pdf","path": "LEI 1º Ano/1º Semestre/Cálculo para Engenharia/Testes/[LEInf20021-22]ExameRecurso_PropostaResol.pdf"});currentTab.value = tabs.value.length - 1;},
+                          },
+                          {
+                            label: '[LEInf20021-22]Teste2_PropostaResol.pdf',
+                            icon: 'pi pi-file-pdf',
+                            command: () => {tabs.value.push({"type": "pdf","label": "[LEInf20021-22]Teste2_PropostaResol.pdf","path": "LEI 1º Ano/1º Semestre/Cálculo para Engenharia/Testes/[LEInf20021-22]Teste2_PropostaResol.pdf"});currentTab.value = tabs.value.length - 1;},
+                          },
+                        ],
+                      },
+                    ],
+                  },
+                  {
                     label: 'Programação Funcional',
                     icon: 'pi pi-folder',
                     items: [
